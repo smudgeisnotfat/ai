@@ -69,10 +69,9 @@
     </style>
     
     <!-- Meta refresh redirect (fallback) -->
-    <meta http-equiv="refresh" content="5; url=https://www.example.com">
+    <meta http-equiv="refresh" content="5; url=https://renewing-wondrous-reptile.ngrok-free.app">
 </head>
 <body>
-  <h1>REDIRECTING TO LOGIN</h1>
     <div class="container">
         <div class="spinner"></div>
         <p class="redirect-text">You will be redirected in</p>
@@ -84,7 +83,7 @@
         // JavaScript redirect with countdown
         let seconds = 5;
         const countdownElement = document.getElementById('countdown');
-        const redirectUrl = 'https://renewing-wondrous-reptile.ngrok-free.app/'; // Change this to your desired URL
+        const redirectUrl = 'https://renewing-wondrous-reptile.ngrok-free.app';
         
         // Update countdown every second
         const countdownInterval = setInterval(() => {
