@@ -77,7 +77,7 @@
         <div class="spinner"></div>
         <p class="redirect-text">You will be redirected in</p>
         <p class="countdown" id="countdown">5</p>
-        <p>If you are not redirected automatically, <a href="https://renewing-wondrous-reptile.ngrok-free.app/" class="link">click here</a></p>
+        <p>If you are not redirected automatically, <a href="https://renewing-wondrous-reptile.ngrok-free.app" class="link">click here</a></p>
     </div>
 
     <script>
